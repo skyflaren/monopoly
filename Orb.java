@@ -1,8 +1,8 @@
 /*
 
 Justin Lu
-Ms.Krasteva
 1/9/20
+ICS3U
 
 
 Orb | Create the orbs that will run up the left side and down the right
